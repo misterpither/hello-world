@@ -1,3 +1,3 @@
 # hello-world
 My First Attempt
-Lets see if this thing makes a difference!
+Hi I'm Robert. Just getting started with programming. Excited to get started!
